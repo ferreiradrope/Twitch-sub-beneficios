@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Lovable project
 
 ## Project info
@@ -67,3 +68,7 @@ Simply open [Lovable](https://lovable.dev/projects/c419012d-e260-44c3-91fd-ca95b
 ## I want to use a custom domain - is that possible?
 
 We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+=======
+# Twitch-sub-beneficios
+Sistema para gerenciar benefícios de inscritos em lives na Twitch. Possui dois painéis: um para o streamer (visualizar inscritos e histórico de resgates) e outro para o usuário (verificar benefícios e solicitar análises). Inclui notificações em tempo real no chat e mensagens de voz ao resgatar benefícios.
+>>>>>>> 606bc52ddd2b8068ebd938c474493b2145cae818
